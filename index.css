@@ -810,9 +810,9 @@ section.landing{
         margin-right: 1.7rem;
         display: none;
     }
-    .carousel-cont > ul {
-        /* margin: 3rem 0 ; */
-   }
+    /* .carousel-cont > ul {
+        margin: 3rem 0 ;
+   } */
 
     
     .layout-1 > p > span:nth-of-type(2){
@@ -1084,8 +1084,15 @@ section.landing{
     .bal{
         margin-top: -8rem;
     }
+
+    .ball{
+        
+    }
     .mudok{
         font-size: 12rem;
+        width:80%;
+        margin-bottom: 1500em;
+        margin-top: 28rem;
     }
 
     .cancel{
@@ -1128,7 +1135,7 @@ section.landing{
     }
     .testimonial{
         margin-top: -55px;
-        height: 48.1rem;
+        height: 50rem;
         padding-bottom: 40px;
         margin-right: 50px;
     }
@@ -1209,6 +1216,8 @@ section.landing{
         font-size: 0.771rem;
         width: 260px;
         margin-right: -1px;
+        margin-bottom: 0.5em;
+        margin-top: rem;
     }
 
     .murib{
